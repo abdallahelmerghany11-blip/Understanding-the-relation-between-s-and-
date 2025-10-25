@@ -1,4 +1,4 @@
-# Understanding-the-relation-between-s-and-
+# Understanding-the-relation-between-s-omega-alpha-and-theta
 clc; clear; close all;
 
 % ----------------------------------------------------------
